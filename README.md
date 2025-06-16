@@ -78,24 +78,3 @@ confidence = 0.9  # 图像匹配置信度阈值（0-1）
 pyautogui.PAUSE = 0.5  # 操作间隔时间（秒）
 ```
 
-## 注意事项
-1. 游戏分辨率会影响模板匹配效果，建议使用1080p分辨率
-2. 确保模板图片路径正确且图片清晰
-3. 脚本运行时请勿移动游戏窗口
-4. 建议在模拟器上运行以避免影响其他操作
-
-## 已知限制
-- 不支持动态变化的游戏界面
-- 无法处理意外弹窗干扰
-- 需要定期更新模板图片以适应游戏更新
-
-## 贡献指南
-欢迎提交Issue或Pull Request：
-1. Fork本项目
-2. 创建新分支 (`git checkout -b feature/your-feature`)
-3. 提交更改 (`git commit -am 'Add some feature'`)
-4. 推送到分支 (`git push origin feature/your-feature`)
-5. 创建Pull Request
-
-## 免责声明
-本脚本仅供学习交流使用，请勿用于商业用途或违反游戏规则的操作。使用本脚本产生的一切后果由使用者自行承担。
