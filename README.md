@@ -18,5 +18,5 @@
 1. **安装 Python**：确保你已安装 Python 3.6 或更高版本，并将其添加到系统环境变量中。
 2. **克隆项目**：
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/xianpy-py/Auto-BBS.git
+   cd Auto-BBS
